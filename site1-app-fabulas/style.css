@@ -30,15 +30,7 @@ body{
 	padding:10px;
 	
 }*/
-#separator{
-	
-	width:100%;
-	height:5%;
-	background-image: url("nav_background.png");
-	border-radius:20px;
-	margin:1% auto ;
-	
-}
+
 section{
 	
 	width:100%;
@@ -49,6 +41,7 @@ section{
 	
 	
 }
+
 
 article{
 	
@@ -64,15 +57,34 @@ article{
 
 footer{
 	width:100%;
-	height:10%;
+	height:20%;
 	background-color:BLACK;
 }
+
+footer p{
+	
+	color: #DDDDDD;
+	font-size:15px;
+	margin-left:10px;
+	text-align:left;
+	
+}
+
+ #ufrpe{
+	
+	height:100%;
+	overflow: hidden;
+	background-image: url("images/ufrpe.jpg");
+	background-repeat:no-repeat;
+	
+}
+
 #div_img{
 	margin:0 auto;
 	height:100%;
 	
 	overflow: hidden;
-	background-image: url("images/logo1.png");
+	background-image: url("images/logo.png");
 	background-repeat:no-repeat;
 	background-position:center;
 }
@@ -99,7 +111,7 @@ img{
 	width:90%;
 	font-size: 60px;
 	height:20%;
-	margin: 110px auto;
+	margin: 70px auto;
 	font-family: 'Eczar', serif;
 	text-shadow: 2px 2px 5px GRAY;
 	
