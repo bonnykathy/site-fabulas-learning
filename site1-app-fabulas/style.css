@@ -5,31 +5,31 @@ body{
 	margin:0;
 }
 #top{
-	background-color:#0C1254;
+	background-color:#f4099e;
 	width:100%;
-	height:75px;
+	height:100px;
 }
 
 #background{
 	width:85%;
-	height:1000px;
+	height:1200px;
 
 	
 	margin:0 auto;
-	background-color:SILVER;
+	background-color:WHITE;
 	
 	
 	
 }
-header{
+/*header{
 	width:98%;
 	height:30%;
-	background-color:#7AA729;
+	background-color:WHITE;
 	border-radius: 20px 20px  0px 0px;
 	margin:0 auto;
 	padding:10px;
 	
-}
+}*/
 #separator{
 	
 	width:100%;
@@ -43,6 +43,7 @@ section{
 	
 	width:100%;
 	height:50%;
+
 	
 	/*background-color:ORANGE;*/
 	
@@ -75,6 +76,13 @@ footer{
 	background-repeat:no-repeat;
 	background-position:center;
 }
+hr{
+	
+	height:10px;
+	background-color:#19aef4;
+	border:0px;
+	margin:0px;
+}
 
 p{
 	width:80%;
@@ -93,7 +101,7 @@ img{
 	height:20%;
 	margin: 110px auto;
 	font-family: 'Eczar', serif;
-	text-shadow: 2px 2px 10px ORANGE, 3px 3px 10px RED;
+	text-shadow: 2px 2px 5px GRAY;
 	
 }
 
